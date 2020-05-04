@@ -59,8 +59,16 @@ ___特别强调___  (示例：粗斜体)
 这是一段文字，我想让这个`字`高亮
 
 ## 文字超链接
-格式是：[要显示的文字](链接的地址)<br>
+### 行内式
+格式是：\[要显示的文字\](链接的地址)<br>
 [百度一下](https://www.baidu.com/)
+
+### 参数式
+格式是：\[name\]:链接地址 "注释说明"<br>
+[name1]:https://www.baidu.com/
+[name2]:https://www.baidu.com/ "名字2"
+
+这里是[name1]，这里是[name2]。
 
 # 符号/列表
 ## 无序列表
@@ -147,7 +155,9 @@ A    | 20  | M
 
 ![baidu](https://www.baidu.com/img/dong_f6764cd1911fae7d460b25e31c7e342c.gif)
 
-（此处前面需要空格）此处添加的baidu文字不会引起改动，如果需要鼠标悬停显示信息，需要添加文字说明
+（此处前面需要空格）此处添加的baidu文字不会引起改动<br>
+如果需要鼠标悬停显示信息，需要添加文字说明
+
 ![](https://www.baidu.com/img/dong_f6764cd1911fae7d460b25e31c7e342c.gif "百度网页logo")
 
 ## Github仓库里的图片
