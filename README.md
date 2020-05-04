@@ -168,7 +168,18 @@ https://github.com/ 你的用户名 / 你的项目名 / raw / 分支名 / 存放
 
 ## 给图片加超链接
 [![baidu.png->baidu](https://github.com/HaoHan1997/HelloWorld/blob/master/image/baidu.png)](https://www.baidu.com/)
-点击图片跳转到百度，此处是结合文字超链接和图片引用两个的引用方法结合起来写
+点击图片跳转到百度，此处是结合文字超链接和图片引用两个的引用方法结合起来写<br>
+注意\[]括号里面的内容是在图片加载失败的时候显示
+
+如果想改变图片的尺寸，可以通过代码标签
+```
+.<img src="https://github.com/Legend-yd/MyDawn/blob/master/20171223205540585.png" width="300" height="450" />
+```
+
+如果想改变图片居中
+```
+.<div align=center><img src="https://github.com/Legend-yd/MyDawn/blob/master/20171223205540585.png" width="300" height="450" /></div>
+```
 
 
 
