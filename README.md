@@ -164,7 +164,7 @@ A    | 20  | M
 与上面的格式基本一致，区别在于URL<br>
 https://github.com/ 你的用户名 / 你的项目名 / raw / 分支名 / 存放图片的文件夹 / 该文件夹下的图片
 
-![](https://github.com/HaoHan1997/HelloWorld/blob/master/MFC.png)
+![](https://github.com/HaoHan1997/HelloWorld/raw/master/MFC.png)
 
 ## 给图片加超链接
 [![baidu.png->baidu](https://github.com/HaoHan1997/HelloWorld/blob/master/baidu.png)](https://www.baidu.com/)
