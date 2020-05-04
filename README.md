@@ -164,10 +164,10 @@ A    | 20  | M
 与上面的格式基本一致，区别在于URL<br>
 https://github.com/ 你的用户名 / 你的项目名 / raw / 分支名 / 存放图片的文件夹 / 该文件夹下的图片
 
-![](https://github.com/HaoHan1997/HelloWorld/raw/master/MFC.png)
+![](https://github.com/HaoHan1997/HelloWorld/raw/master/image/MFC.png)
 
 ## 给图片加超链接
-[![baidu.png->baidu](https://github.com/HaoHan1997/HelloWorld/blob/master/baidu.png)](https://www.baidu.com/)
+[![baidu.png->baidu](https://github.com/HaoHan1997/HelloWorld/blob/master/image/baidu.png)](https://www.baidu.com/)
 点击图片跳转到百度，此处是结合文字超链接和图片引用两个的引用方法结合起来写
 
 
