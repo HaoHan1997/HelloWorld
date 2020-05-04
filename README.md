@@ -87,7 +87,7 @@ ___特别强调___  (示例：粗斜体)
 * \!
 
 ## 分割线
-分割线可以使用星号，减号，下划线这三个符号的至少三个符号表示，至少三个，不需连续，但两个符号之间至多一个空格<br>
+分割线可以使用星号，减号，下划线这三个符号的至少三个符号表示，至少三个，不需连续，但两个符号之间至多一个空格,注意此处应该加一个空格
 
 ---
 ***
@@ -146,13 +146,16 @@ A    | 20  | M
 即使用\!\+方括号\[\]\+括号()，括号里面是图片的URL
 
 ![baidu](https://www.baidu.com/img/dong_f6764cd1911fae7d460b25e31c7e342c.gif)
-此处添加的baidu文字不会引起改动，如果需要鼠标悬停显示信息，需要添加文字说明
+
+（此处前面需要空格）此处添加的baidu文字不会引起改动，如果需要鼠标悬停显示信息，需要添加文字说明
 ![](https://www.baidu.com/img/dong_f6764cd1911fae7d460b25e31c7e342c.gif "百度网页logo")
 
 ## Github仓库里的图片
 与上面的格式基本一致，区别在于URL<br>
-https://github.com/ 你的用户名 / 你的项目名 / raw / 分支名 / 存放图片的文件夹 / 该文件夹下的图片<br>
+https://github.com/ 你的用户名 / 你的项目名 / raw / 分支名 / 存放图片的文件夹 / 该文件夹下的图片
+
 ![](https://github.com/HaoHan1997/HelloWorld/raw/master/MFC.png)
+
 ## 给图片加超链接
 [![baidu.png->baidu](https://github.com/HaoHan1997/HelloWorld/raw/master/baidu.png)](https://www.baidu.com/)
 点击图片跳转到百度，此处是结合文字超链接和图片引用两个的引用方法结合起来写
