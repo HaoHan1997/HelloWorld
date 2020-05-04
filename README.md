@@ -64,9 +64,10 @@ ___特别强调___  (示例：粗斜体)
 [百度一下](https://www.baidu.com/)
 
 ### 参数式
-格式是：\[name\]:链接地址 "注释说明"
-[name1]:https://www.baidu.com/
-[name2]:https://www.baidu.com/ "名字2"
+格式是：\[name\]:链接地址 "注释说明".注意冒号后面加空格
+
+[name1]: https://www.baidu.com/
+[name2]: https://www.baidu.com/ "名字2"
 
 这里是[name1]，这里是[name2]。
 
